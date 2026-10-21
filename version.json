@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.16",
+  "versionCode": 17,
+  "versionName": "1.0.17",
   "apk": "Sesiones.apk",
-  "notas": "• Notas en cada sesión (toca una sesión en la ficha del cliente).\n• Nuevo ícono de Ajustes.\n• Actualizar es más fácil: tras dar el permiso, sigue solo."
+  "notas": "• Modo Fold: con la pantalla abierta, todo en dos columnas.\n• Barra de vidrio vertical a la derecha, con el orden arriba y el + abajo.\n• Guardar y Cancelar en una píldora vertical al editar un cliente."
 }
