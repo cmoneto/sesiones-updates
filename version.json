@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.15",
+  "versionCode": 16,
+  "versionName": "1.0.16",
   "apk": "Sesiones.apk",
-  "notas": "• Notas en cada sesión: toca una sesión en la ficha del cliente para escribir qué trabajaron.\n• Notas usadas antes para reutilizarlas con un toque.\n• Nuevo ícono de Ajustes."
+  "notas": "• Notas en cada sesión (toca una sesión en la ficha del cliente).\n• Nuevo ícono de Ajustes.\n• Actualizar es más fácil: tras dar el permiso, sigue solo."
 }
