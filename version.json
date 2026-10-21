@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.17",
+  "versionCode": 18,
+  "versionName": "1.0.18",
   "apk": "Sesiones.apk",
-  "notas": "• Modo Fold: con la pantalla abierta, todo en dos columnas.\n• Barra de vidrio vertical a la derecha, con el orden arriba y el + abajo.\n• Guardar y Cancelar en una píldora vertical al editar un cliente."
+  "notas": "• Textos centrados en la barra lateral del Fold y en los botones de las tarjetas."
 }
