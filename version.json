@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.14",
+  "versionCode": 15,
+  "versionName": "1.0.15",
   "apk": "Sesiones.apk",
-  "notas": "• Actualiza la app desde Ajustes › Buscar actualización, sin descargar nada a mano.\n• Aviso en Mis clientes cuando hay una versión nueva."
+  "notas": "• Notas en cada sesión: toca una sesión en la ficha del cliente para escribir qué trabajaron.\n• Notas usadas antes para reutilizarlas con un toque.\n• Nuevo ícono de Ajustes."
 }
