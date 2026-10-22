@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.22",
+  "versionCode": 23,
+  "versionName": "1.0.23",
   "apk": "Sesiones.apk",
-  "notas": "• Las barras de progreso brillan en el color de cada cliente (lista, ficha y widget compacto)."
+  "notas": "• El respaldo se llama sesiones-respaldo-FECHA_HORA y se actualiza solo con cada cambio."
 }
