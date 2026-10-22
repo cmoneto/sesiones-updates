@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.20",
+  "versionCode": 21,
+  "versionName": "1.0.21",
   "apk": "Sesiones.apk",
-  "notas": "• Doble toque para +1 (app y widget): el primer toque pide confirmar.\n• El chip de pago cambia de amarillo a rojo según avanza el paquete sin pagar, y se pone verde al pagar."
+  "notas": "• Widget: el segundo toque ya registra la sesión.\n• Animación al cambiar entre +1 y «Toca otra vez», en el widget y en la app."
 }
