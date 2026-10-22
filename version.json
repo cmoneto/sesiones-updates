@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.23",
+  "versionCode": 24,
+  "versionName": "1.0.24",
   "apk": "Sesiones.apk",
-  "notas": "• El respaldo se llama sesiones-respaldo-FECHA_HORA y se actualiza solo con cada cambio."
+  "notas": "• El chip verde de Pagado ahora también brilla."
 }
