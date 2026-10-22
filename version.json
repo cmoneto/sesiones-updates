@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.26",
+  "versionCode": 27,
+  "versionName": "1.0.27",
   "apk": "Sesiones.apk",
-  "notas": "• Mantén presionada la tarjeta de un cliente (o usa el botón en su ficha) para añadirlo al inicio como widget."
+  "notas": "• El menú al mantener presionada una tarjeta ahora es de vidrio, con la lista desenfocada detrás."
 }
