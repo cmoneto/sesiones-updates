@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.28",
+  "versionCode": 29,
+  "versionName": "1.0.29",
   "apk": "Sesiones.apk",
-  "notas": "• Forma de cobro por cliente: por paquete o por sesión (en Editar cliente)."
+  "notas": "• Tipo de servicio en Ajustes: la app habla como tu rubro.\n• Los widgets se mantienen al cambiar de celular.\n• Y una sorpresa escondida."
 }
