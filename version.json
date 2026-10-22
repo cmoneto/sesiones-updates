@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.19",
+  "versionCode": 20,
+  "versionName": "1.0.20",
   "apk": "Sesiones.apk",
-  "notas": "• Widget compacto en celulares angostos: número grande, barra y el estado en una línea, sin cortar el texto.\n• En pantallas anchas (Fold) se mantiene el anillo."
+  "notas": "• Doble toque para +1 (app y widget): el primer toque pide confirmar.\n• El chip de pago cambia de amarillo a rojo según avanza el paquete sin pagar, y se pone verde al pagar."
 }
