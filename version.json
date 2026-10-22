@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.21",
+  "versionCode": 22,
+  "versionName": "1.0.22",
   "apk": "Sesiones.apk",
-  "notas": "• Widget: el segundo toque ya registra la sesión.\n• Animación al cambiar entre +1 y «Toca otra vez», en el widget y en la app."
+  "notas": "• Las barras de progreso brillan en el color de cada cliente (lista, ficha y widget compacto)."
 }
