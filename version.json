@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.27",
+  "versionCode": 28,
+  "versionName": "1.0.28",
   "apk": "Sesiones.apk",
-  "notas": "• El menú al mantener presionada una tarjeta ahora es de vidrio, con la lista desenfocada detrás."
+  "notas": "• Forma de cobro por cliente: por paquete o por sesión (en Editar cliente)."
 }
