@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.18",
+  "versionCode": 19,
+  "versionName": "1.0.19",
   "apk": "Sesiones.apk",
-  "notas": "• Textos centrados en la barra lateral del Fold y en los botones de las tarjetas."
+  "notas": "• Widget compacto en celulares angostos: número grande, barra y el estado en una línea, sin cortar el texto.\n• En pantallas anchas (Fold) se mantiene el anillo."
 }
