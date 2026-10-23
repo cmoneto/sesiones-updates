@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.33",
+  "versionCode": 34,
+  "versionName": "1.0.34",
   "apk": "Sesiones.apk",
-  "notas": "• El widget cuadrado ya se puede agregar."
+  "notas": "• Vista previa de los widgets en la lista del celular.\n• Añadir al inicio pregunta el tamaño: cuadrado o ancho."
 }
