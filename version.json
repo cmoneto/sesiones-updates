@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.32",
+  "versionCode": 33,
+  "versionName": "1.0.33",
   "apk": "Sesiones.apk",
-  "notas": "• Nuevo widget cuadrado (2 × 2): conteo grande y el +1 abajo de borde a borde."
+  "notas": "• El widget cuadrado ya se puede agregar."
 }
