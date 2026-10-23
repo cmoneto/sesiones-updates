@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.35",
+  "versionCode": 36,
+  "versionName": "1.0.36",
   "apk": "Sesiones.apk",
-  "notas": "• En el Fold y tablets ya se ven todos los clientes con el orden inteligente.\n• Los nombres ya no desaparecen en las columnas."
+  "notas": "• En tablets y Fold, la tarjeta sola en una fila ya no se estira."
 }
