@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.34",
+  "versionCode": 35,
+  "versionName": "1.0.35",
   "apk": "Sesiones.apk",
-  "notas": "• Vista previa de los widgets en la lista del celular.\n• Añadir al inicio pregunta el tamaño: cuadrado o ancho."
+  "notas": "• En el Fold y tablets ya se ven todos los clientes con el orden inteligente.\n• Los nombres ya no desaparecen en las columnas."
 }
