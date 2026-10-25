@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.38",
+  "versionCode": 39,
+  "versionName": "1.0.39",
   "apk": "Sesiones.apk",
-  "notas": "• La barra de pestañas es más fluida: la píldora se desliza y se estira entre opciones."
+  "notas": "• Nuevo tutorial de primer uso: aparece al abrir la app sin clientes y puedes verlo cuando quieras en Ajustes › Ayuda › Ver tutorial."
 }
