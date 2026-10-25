@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.39",
+  "versionCode": 41,
+  "versionName": "1.0.41",
   "apk": "Sesiones.apk",
-  "notas": "• Nuevo tutorial de primer uso: aparece al abrir la app sin clientes y puedes verlo cuando quieras en Ajustes › Ayuda › Ver tutorial."
+  "notas": "• Nuevo Calendario: pestaña con vista Mes y Semana, agenda del día, registrar días olvidados y fecha estimada de fin en la ficha.\n• Con el Fold abierto, el calendario va dentro de Mis clientes."
 }
