@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.37",
+  "versionCode": 38,
+  "versionName": "1.0.38",
   "apk": "Sesiones.apk",
-  "notas": "• Mejoras internas de seguridad. Mismo contenido que la versión de Google Play."
+  "notas": "• La barra de pestañas es más fluida: la píldora se desliza y se estira entre opciones."
 }
