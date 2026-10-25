@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.41",
+  "versionCode": 42,
+  "versionName": "1.0.42",
   "apk": "Sesiones.apk",
-  "notas": "• Nuevo Calendario: pestaña con vista Mes y Semana, agenda del día, registrar días olvidados y fecha estimada de fin en la ficha.\n• Con el Fold abierto, el calendario va dentro de Mis clientes."
+  "notas": "• Calendario como sección propia también en el Fold abierto y tablets (Mes y Semana).\n• Mis clientes vuelve a mostrar solo las tarjetas."
 }
