@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.36",
+  "versionCode": 37,
+  "versionName": "1.0.37",
   "apk": "Sesiones.apk",
-  "notas": "• En tablets y Fold, la tarjeta sola en una fila ya no se estira."
+  "notas": "• Mejoras internas de seguridad. Mismo contenido que la versión de Google Play."
 }
