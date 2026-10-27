@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "1.0.49",
+  "versionCode": 50,
+  "versionName": "1.0.50",
   "apk": "Sesiones.apk",
-  "notas": "• Al mantener apretada una tarjeta, el fondo se aleja un poco y la tarjeta queda en su sitio."
+  "notas": "• Nuevo en Ajustes › Apariencia: Negro puro, fondo negro total para pantallas AMOLED."
 }
