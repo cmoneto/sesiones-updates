@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.0.46",
+  "versionCode": 47,
+  "versionName": "1.0.47",
   "apk": "Sesiones.apk",
-  "notas": "• Pagos: el menú de cada pendiente ahora es de vidrio, con borde luminoso."
+  "notas": "• Ajustes › Enviar comentarios.\n• El teléfono del cliente se puede elegir de tus contactos."
 }
