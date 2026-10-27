@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.47",
+  "versionCode": 48,
+  "versionName": "1.0.48",
   "apk": "Sesiones.apk",
-  "notas": "• Ajustes › Enviar comentarios.\n• El teléfono del cliente se puede elegir de tus contactos."
+  "notas": "• Calendario en modo claro: el +1 y «✓ Hecha» se leen bien.\n• La hora de la agenda ya no se corta."
 }
