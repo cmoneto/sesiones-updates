@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.43",
+  "versionCode": 44,
+  "versionName": "1.0.44",
   "apk": "Sesiones.apk",
-  "notas": "• Borde luminoso: al tocar una tarjeta o el +1 se enciende una luz sobre el borde que sigue al dedo, en el color del cliente."
+  "notas": "• Borde luminoso más fuerte: línea más gruesa con resplandor y un tinte interior más visible."
 }
