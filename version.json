@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.0.45",
+  "versionCode": 46,
+  "versionName": "1.0.46",
   "apk": "Sesiones.apk",
-  "notas": "• Borde luminoso afinado: la luz ya no se sale de las esquinas redondeadas y es un poco más suave."
+  "notas": "• Pagos: el menú de cada pendiente ahora es de vidrio, con borde luminoso."
 }
