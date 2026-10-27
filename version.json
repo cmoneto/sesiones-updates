@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.0.48",
+  "versionCode": 49,
+  "versionName": "1.0.49",
   "apk": "Sesiones.apk",
-  "notas": "• Calendario en modo claro: el +1 y «✓ Hecha» se leen bien.\n• La hora de la agenda ya no se corta."
+  "notas": "• Al mantener apretada una tarjeta, el fondo se aleja un poco y la tarjeta queda en su sitio."
 }
