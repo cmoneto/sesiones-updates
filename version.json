@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.44",
+  "versionCode": 45,
+  "versionName": "1.0.45",
   "apk": "Sesiones.apk",
-  "notas": "• Borde luminoso más fuerte: línea más gruesa con resplandor y un tinte interior más visible."
+  "notas": "• Borde luminoso afinado: la luz ya no se sale de las esquinas redondeadas y es un poco más suave."
 }
