@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "1.0.51",
-  "apk": "Sesiones-51.apk",
-  "notas": "• Buscar actualización ve la versión nueva apenas se publica."
+  "versionCode": 52,
+  "versionName": "1.0.52",
+  "apk": "Sesiones-52.apk",
+  "notas": "• Cobro por sesión: al crear o editar un cliente puedes poner cuántas sesiones ya hizo y cuántas ya pagó."
 }
