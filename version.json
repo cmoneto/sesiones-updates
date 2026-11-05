@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0.52",
-  "apk": "Sesiones-52.apk",
-  "notas": "• Cobro por sesión: al crear o editar un cliente puedes poner cuántas sesiones ya hizo y cuántas ya pagó."
+  "versionCode": 53,
+  "versionName": "1.0.53",
+  "apk": "Sesiones-53.apk",
+  "notas": "• Toca un día en el calendario de la ficha para marcar si asistió, si pagó o si no vino."
 }
