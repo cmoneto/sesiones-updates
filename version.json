@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0.57",
-  "apk": "Sesiones-57.apk",
-  "notas": "• Al abrir la app, todo aparece en cascada, de difuminado a nítido (300 ms)."
+  "versionCode": 58,
+  "versionName": "1.0.58",
+  "apk": "Sesiones-58.apk",
+  "notas": "• La entrada en cascada ahora se ve: espera a que se vaya la pantalla de inicio y es más marcada."
 }
