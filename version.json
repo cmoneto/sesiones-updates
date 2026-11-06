@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.0.59",
-  "apk": "Sesiones-59.apk",
-  "notas": "• Pellizca la lista de clientes para tener tarjetas cuadradas (o en Ajustes › Apariencia)."
+  "versionCode": 60,
+  "versionName": "1.0.60",
+  "apk": "Sesiones-60.apk",
+  "notas": "• Tarjetas compactas: mismo alto, la mitad de ancho (el doble en pantalla).\n• El cambio de tamaño al pellizcar es fluido, como en la galería de fotos."
 }
