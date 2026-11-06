@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.0.55",
-  "apk": "Sesiones-55.apk",
-  "notas": "• El cambio de tema (claro, oscuro, negro puro) ahora es animado: el tema nuevo aparece con un círculo."
+  "versionCode": 56,
+  "versionName": "1.0.56",
+  "apk": "Sesiones-56.apk",
+  "notas": "• El cambio de tema ahora es difuminado: borde suave y la pantalla anterior se desenfoca."
 }
