@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.54",
-  "apk": "Sesiones-54.apk",
-  "notas": "• La barra flotante de abajo y el botón + son un poco más chicos."
+  "versionCode": 55,
+  "versionName": "1.0.55",
+  "apk": "Sesiones-55.apk",
+  "notas": "• El cambio de tema (claro, oscuro, negro puro) ahora es animado: el tema nuevo aparece con un círculo."
 }
