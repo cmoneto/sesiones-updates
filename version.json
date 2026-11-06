@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.56",
-  "apk": "Sesiones-56.apk",
-  "notas": "• El cambio de tema ahora es difuminado: borde suave y la pantalla anterior se desenfoca."
+  "versionCode": 57,
+  "versionName": "1.0.57",
+  "apk": "Sesiones-57.apk",
+  "notas": "• Al abrir la app, todo aparece en cascada, de difuminado a nítido (300 ms)."
 }
