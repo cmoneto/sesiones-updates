@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "1.0.64",
-  "apk": "Sesiones-64.apk",
-  "notas": "• Comparte la tarjeta con tu cliente: link o QR para que vea sus sesiones en su celular, sin poder cambiar nada (Mis tarjetas y widget «Mi tarjeta · solo ver»).\n• Planes de la versión de Google Play: 14 días gratis, después gratis con un cliente o mensual, anual o de por vida. En este APK no se cobra; para verlo, mantén presionado Ajustes › Versión."
+  "versionCode": 65,
+  "versionName": "1.0.65",
+  "apk": "Sesiones-65.apk",
+  "notas": "• +1 más grande en las tarjetas compactas.\n• Quita cualquier sesión desde la ficha (mantén presionada la fila).\n• Tu nombre en Ajustes › Tú (y se pregunta al empezar).\n• Mis tarjetas: quita las que ya no te comparten."
 }
