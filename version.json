@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "1.0.88",
-  "apk": "Sesiones-88.apk",
-  "notas": "• Fold y tablets: la última tarjeta de cada columna ya no sale cortada sobre los puntos."
+  "versionCode": 89,
+  "versionName": "1.0.89",
+  "apk": "Sesiones-89.apk",
+  "notas": "• Nuevo / Editar cliente ya no pierde lo escrito al abrir o cerrar el Fold o girar el celular.\n• Clic derecho abre el menú de tarjetas, sesiones y pagos.\n• Con mouse, el borde luminoso se enciende al pasar por encima; Ctrl + rueda cambia el tamaño de las tarjetas."
 }
