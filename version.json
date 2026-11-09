@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "1.0.87",
-  "apk": "Sesiones-87.apk",
-  "notas": "• Fold y tablets: puntos bajo las columnas. Las que ves son rayitas largas; las de fuera de pantalla, puntos. Cambian al deslizar.\n• Toca un punto para ir a esa columna."
+  "versionCode": 88,
+  "versionName": "1.0.88",
+  "apk": "Sesiones-88.apk",
+  "notas": "• Fold y tablets: la última tarjeta de cada columna ya no sale cortada sobre los puntos."
 }
