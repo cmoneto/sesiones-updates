@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "1.0.67",
-  "apk": "Sesiones-67.apk",
-  "notas": "• El widget «Mi tarjeta · solo ver» ya funciona.\n• Al recibir una tarjeta, la app ofrece ponerla en tu inicio."
+  "versionCode": 68,
+  "versionName": "1.0.68",
+  "apk": "Sesiones-68.apk",
+  "notas": "• El widget de la tarjeta compartida tiene el mismo diseño que los demás: colores del pago, tema y transparencia.\n• «Añadir al inicio» a la vista dentro de la tarjeta recibida."
 }
