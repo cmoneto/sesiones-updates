@@ -1,6 +1,6 @@
 {
-  "versionCode": 89,
-  "versionName": "1.0.89",
-  "apk": "Sesiones-89.apk",
-  "notas": "• Nuevo / Editar cliente ya no pierde lo escrito al abrir o cerrar el Fold o girar el celular.\n• Clic derecho abre el menú de tarjetas, sesiones y pagos.\n• Con mouse, el borde luminoso se enciende al pasar por encima; Ctrl + rueda cambia el tamaño de las tarjetas."
+  "versionCode": 90,
+  "versionName": "1.0.90",
+  "apk": "Sesiones-90.apk",
+  "notas": "• Fold abierto y tablets: al recibir una tarjeta, la cámara va en un recuadro a la izquierda y Pegar link al lado, en vez de ocupar toda la pantalla."
 }
