@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "1.0.85",
-  "apk": "Sesiones-85.apk",
-  "notas": "• Fold y tablets: la columna de la izquierda vuelve a asomarse.\n• La columna debajo de la barra lateral se ve mejor: casi opaca, menos difuminada y con más color."
+  "versionCode": 86,
+  "versionName": "1.0.86",
+  "apk": "Sesiones-86.apk",
+  "notas": "• Fold y tablets: la columna de la derecha queda más alejada y solo asoma bajo el último tercio de la barra lateral."
 }
