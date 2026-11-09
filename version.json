@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "1.0.80",
-  "apk": "Sesiones-80.apk",
-  "notas": "• Fold: ya no se cierra al cambiar el tamaño de las tarjetas, columnas alineadas y la siguiente se asoma bajo la barra."
+  "versionCode": 81,
+  "versionName": "1.0.81",
+  "apk": "Sesiones-81.apk",
+  "notas": "• Fold: las columnas van de borde a borde, se ven a través de la barra lateral y los extremos se difuminan."
 }
