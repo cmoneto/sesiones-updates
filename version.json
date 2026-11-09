@@ -1,6 +1,6 @@
 {
-  "versionCode": 83,
-  "versionName": "1.0.83",
-  "apk": "Sesiones-83.apk",
-  "notas": "• La app ahora también está en inglés: usa el idioma del celular.\n• Se puede elegir en Ajustes › Tú › Idioma.\n• Fechas, widgets, tutorial y mensajes de WhatsApp en el idioma elegido."
+  "versionCode": 84,
+  "versionName": "1.0.84",
+  "apk": "Sesiones-84.apk",
+  "notas": "• Fold y tablets: todas las columnas empiezan a la misma altura.\n• Las columnas fuera de la vista se ven al fondo: más chicas, oscuras y difuminadas, y pasan al frente al deslizar."
 }
