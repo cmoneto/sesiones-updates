@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "1.0.90",
-  "apk": "Sesiones-90.apk",
-  "notas": "• Fold abierto y tablets: al recibir una tarjeta, la cámara va en un recuadro a la izquierda y Pegar link al lado, en vez de ocupar toda la pantalla."
+  "versionCode": 91,
+  "versionName": "1.0.91",
+  "apk": "Sesiones-91.apk",
+  "notas": "• Fold y tablets: la pantalla de clientes ya no se mueve un poquito hacia arriba y abajo cuando todo entra en pantalla."
 }
