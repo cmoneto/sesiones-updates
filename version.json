@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "1.0.68",
-  "apk": "Sesiones-68.apk",
-  "notas": "• El widget de la tarjeta compartida tiene el mismo diseño que los demás: colores del pago, tema y transparencia.\n• «Añadir al inicio» a la vista dentro de la tarjeta recibida."
+  "versionCode": 69,
+  "versionName": "1.0.69",
+  "apk": "Sesiones-69.apk",
+  "notas": "• Mis tarjetas: tocar una tarjeta ahora la abre.\n• El widget de la tarjeta ya no tiene botón: muestra tu siguiente sesión y se ajusta (tema y transparencia)."
 }
