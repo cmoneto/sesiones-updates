@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "1.0.81",
-  "apk": "Sesiones-81.apk",
-  "notas": "• Fold: las columnas van de borde a borde, se ven a través de la barra lateral y los extremos se difuminan."
+  "versionCode": 82,
+  "versionName": "1.0.82",
+  "apk": "Sesiones-82.apk",
+  "notas": "• La app usa la moneda de tu país (soles, pesos, reales…), con el formato de números de allí; se cambia en Ajustes › Tú › Moneda.\n• A cada cliente lo puedes cobrar en dólares: toca la moneda junto al precio.\n• En Pagos, los totales se suman aparte por moneda."
 }
