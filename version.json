@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "1.0.75",
-  "apk": "Sesiones-75.apk",
-  "notas": "• La barra de vidrio ya no se corta al apretarla o arrastrarla.\n• El widget de tu tarjeta se actualiza y en tamaño cuadrado muestra el anillo."
+  "versionCode": 76,
+  "versionName": "1.0.76",
+  "apk": "Sesiones-76.apk",
+  "notas": "• El widget de tu tarjeta muestra el anillo solo en tamaño cuadrado."
 }
