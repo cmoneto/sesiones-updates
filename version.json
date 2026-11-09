@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "1.0.82",
-  "apk": "Sesiones-82.apk",
-  "notas": "• La app usa la moneda de tu país (soles, pesos, reales…), con el formato de números de allí; se cambia en Ajustes › Tú › Moneda.\n• A cada cliente lo puedes cobrar en dólares: toca la moneda junto al precio.\n• En Pagos, los totales se suman aparte por moneda."
+  "versionCode": 83,
+  "versionName": "1.0.83",
+  "apk": "Sesiones-83.apk",
+  "notas": "• La app ahora también está en inglés: usa el idioma del celular.\n• Se puede elegir en Ajustes › Tú › Idioma.\n• Fechas, widgets, tutorial y mensajes de WhatsApp en el idioma elegido."
 }
