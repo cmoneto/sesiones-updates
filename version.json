@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "1.0.76",
-  "apk": "Sesiones-76.apk",
-  "notas": "• El widget de tu tarjeta muestra el anillo solo en tamaño cuadrado."
+  "versionCode": 77,
+  "versionName": "1.0.77",
+  "apk": "Sesiones-77.apk",
+  "notas": "• Las barras de progreso de las tarjetas se llenan con una animación cada vez que aparecen."
 }
