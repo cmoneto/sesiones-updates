@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "1.0.86",
-  "apk": "Sesiones-86.apk",
-  "notas": "• Fold y tablets: la columna de la derecha queda más alejada y solo asoma bajo el último tercio de la barra lateral."
+  "versionCode": 87,
+  "versionName": "1.0.87",
+  "apk": "Sesiones-87.apk",
+  "notas": "• Fold y tablets: puntos bajo las columnas. Las que ves son rayitas largas; las de fuera de pantalla, puntos. Cambian al deslizar.\n• Toca un punto para ir a esa columna."
 }
