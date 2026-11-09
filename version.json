@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "1.0.66",
-  "apk": "Sesiones-66.apk",
-  "notas": "• Mis tarjetas: «Añadir al inicio» pone tu tarjeta como widget en la pantalla de inicio."
+  "versionCode": 67,
+  "versionName": "1.0.67",
+  "apk": "Sesiones-67.apk",
+  "notas": "• El widget «Mi tarjeta · solo ver» ya funciona.\n• Al recibir una tarjeta, la app ofrece ponerla en tu inicio."
 }
