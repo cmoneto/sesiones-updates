@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "1.0.74",
-  "apk": "Sesiones-74.apk",
-  "notas": "• Barra de vidrio líquido: arrastra la pestaña activa entre secciones.\n• Widget de tu tarjeta: el anillo solo en el tamaño cuadrado."
+  "versionCode": 75,
+  "versionName": "1.0.75",
+  "apk": "Sesiones-75.apk",
+  "notas": "• La barra de vidrio ya no se corta al apretarla o arrastrarla.\n• El widget de tu tarjeta se actualiza y en tamaño cuadrado muestra el anillo."
 }
