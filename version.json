@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "1.0.91",
-  "apk": "Sesiones-91.apk",
-  "notas": "• Fold y tablets: la pantalla de clientes ya no se mueve un poquito hacia arriba y abajo cuando todo entra en pantalla."
+  "versionCode": 92,
+  "versionName": "1.0.92",
+  "apk": "Sesiones-92.apk",
+  "notas": "• Fold: las columnas bajan hasta casi el borde, así entra una tarjeta más por columna.\n• Los puntos de las columnas quedan más abajo."
 }
