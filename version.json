@@ -1,6 +1,6 @@
 {
-  "versionCode": 108,
-  "versionName": "1.0.108",
-  "apk": "Sesiones-108.apk",
-  "notas": "• Las tarjetas de clientes entran con resorte, se enderezan en 3D y su borde se enciende al llegar.\n• La punta de la barra brilla mientras se llena y los montos giran como un contador."
+  "versionCode": 109,
+  "versionName": "1.0.109",
+  "apk": "Sesiones-109.apk",
+  "notas": "• Al abrir un cliente, Pagos o una tarjeta recibida, todo entra con la misma animación.\n• Todos los montos giran como un contador y las esquinas de las tarjetas se ven redondeadas al aparecer."
 }
