@@ -1,6 +1,6 @@
 {
-  "versionCode": 93,
-  "versionName": "1.0.93",
-  "apk": "Sesiones-93.apk",
-  "notas": "• Ícono nuevo: el + con degradado de menta a lavanda y brillo suave."
+  "versionCode": 95,
+  "versionName": "1.0.95",
+  "apk": "Sesiones-95.apk",
+  "notas": "• El cambio de tema claro/oscuro ahora se abre con una onda desde el botón que tocas.\n• Nuevo «Fondo vivo» en Ajustes › Apariencia: degradado con colores que se mueven y partículas, de día y de noche.\n• Onda de éxito al registrar y cobrar; las columnas del Fold se quedan en su sitio."
 }
