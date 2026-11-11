@@ -1,6 +1,6 @@
 {
-  "versionCode": 107,
-  "versionName": "1.0.107",
-  "apk": "Sesiones-107.apk",
-  "notas": "• Las tarjetas de clientes entran una tras otra y sus partes aparecen por separado.\n• Los montos suben como en una caja registradora."
+  "versionCode": 108,
+  "versionName": "1.0.108",
+  "apk": "Sesiones-108.apk",
+  "notas": "• Las tarjetas de clientes entran con resorte, se enderezan en 3D y su borde se enciende al llegar.\n• La punta de la barra brilla mientras se llena y los montos giran como un contador."
 }
