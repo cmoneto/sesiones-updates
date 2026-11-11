@@ -1,6 +1,6 @@
 {
-  "versionCode": 109,
-  "versionName": "1.0.109",
-  "apk": "Sesiones-109.apk",
-  "notas": "• Al abrir un cliente, Pagos o una tarjeta recibida, todo entra con la misma animación.\n• Todos los montos giran como un contador y las esquinas de las tarjetas se ven redondeadas al aparecer."
+  "versionCode": 110,
+  "versionName": "1.0.110",
+  "apk": "Sesiones-110.apk",
+  "notas": "• Pagos: lo cobrado y lo que falta en una sola tarjeta, con un termómetro que late.\n• El calendario entra animado y Mis tarjetas se ve como tus clientes, también en el Fold abierto."
 }
