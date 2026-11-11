@@ -1,6 +1,6 @@
 {
-  "versionCode": 99,
-  "versionName": "1.0.99",
-  "apk": "Sesiones-99.apk",
-  "notas": "• La app usa toda la pantalla: también junto a la cámara y bajo la barra de estado, sin franja vacía."
+  "versionCode": 100,
+  "versionName": "1.0.100",
+  "apk": "Sesiones-100.apk",
+  "notas": "• Al compartir una tarjeta, el QR se arma con una onda de luz: los cuadritos llegan volando como partículas, salen chispas y un brillo cruza el código al final."
 }
