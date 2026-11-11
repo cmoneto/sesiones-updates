@@ -1,6 +1,6 @@
 {
-  "versionCode": 95,
-  "versionName": "1.0.95",
-  "apk": "Sesiones-95.apk",
-  "notas": "• El cambio de tema claro/oscuro ahora se abre con una onda desde el botón que tocas.\n• Nuevo «Fondo vivo» en Ajustes › Apariencia: degradado con colores que se mueven y partículas, de día y de noche.\n• Onda de éxito al registrar y cobrar; las columnas del Fold se quedan en su sitio."
+  "versionCode": 96,
+  "versionName": "1.0.96",
+  "apk": "Sesiones-96.apk",
+  "notas": "• El cambio de tema se rehízo: se abre como una gota en el agua, liviano y sin trabarse.\n• Fondo vivo mucho más sutil, y más oscuro de noche."
 }
