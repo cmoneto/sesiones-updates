@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "1.0.105",
-  "apk": "Sesiones-105.apk",
-  "notas": "• El Fondo vivo ahora también se ve en la ficha del cliente, el formulario, compartir y Mis tarjetas."
+  "versionCode": 106,
+  "versionName": "1.0.106",
+  "apk": "Sesiones-106.apk",
+  "notas": "• Todas las ventanas usan la pantalla completa, también la franja de la cámara.\n• Las tarjetas de todas las ventanas son de vidrio, esmeriladas sobre el Fondo vivo."
 }
