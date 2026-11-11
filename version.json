@@ -1,6 +1,6 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.111",
-  "apk": "Sesiones-111.apk",
-  "notas": "• Pagos: la línea de cobrado y por cobrar brilla detrás del vidrio de la tarjeta y late.\n• La tarjeta que te compartieron se ve en dos columnas en pantallas grandes."
+  "versionCode": 112,
+  "versionName": "1.0.112",
+  "apk": "Sesiones-112.apk",
+  "notas": "• En el calendario, la hora de cada cliente se ve completa (ya no la corta el nombre)."
 }
