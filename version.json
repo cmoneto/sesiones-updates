@@ -1,6 +1,6 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.100",
-  "apk": "Sesiones-100.apk",
-  "notas": "• Al compartir una tarjeta, el QR se arma con una onda de luz: los cuadritos llegan volando como partículas, salen chispas y un brillo cruza el código al final."
+  "versionCode": 101,
+  "versionName": "1.0.101",
+  "apk": "Sesiones-101.apk",
+  "notas": "• El QR se arma con la onda también la primera vez que compartes.\n• La onda del QR cruza y deforma toda la pantalla."
 }
