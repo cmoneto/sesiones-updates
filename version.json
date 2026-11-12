@@ -1,6 +1,6 @@
 {
-  "versionCode": 113,
-  "versionName": "1.0.113",
-  "apk": "Sesiones-113.apk",
-  "notas": "• En pantallas grandes las dos columnas empiezan a la misma altura.\n• «Configuración» de cada cliente, con Guardar y Cancelar arriba."
+  "versionCode": 114,
+  "versionName": "1.0.114",
+  "apk": "Sesiones-114.apk",
+  "notas": "• Guardar y Cancelar con el mismo estilo que «Configurar» en pantallas grandes."
 }
