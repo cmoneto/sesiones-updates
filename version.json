@@ -1,6 +1,6 @@
 {
-  "versionCode": 119,
-  "versionName": "1.0.119",
-  "apk": "Sesiones-119.apk",
-  "notas": "• Después del +1, la tarjeta espera su onda y viaja a su nuevo lugar.\n• Eliminar cliente con efecto, también desde el menú de la tarjeta.\n• Estadísticas anónimas de uso (se apagan en Ajustes › Privacidad)."
+  "versionCode": 120,
+  "versionName": "1.0.120",
+  "apk": "Sesiones-120.apk",
+  "notas": "• Versión de Google Play: ofrece las versiones nuevas dentro de la app y las descarga en segundo plano.\n• Aviso en Mis clientes con el avance y «toca para reiniciar» cuando está lista."
 }
