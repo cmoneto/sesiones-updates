@@ -1,6 +1,6 @@
 {
-  "versionCode": 112,
-  "versionName": "1.0.112",
-  "apk": "Sesiones-112.apk",
-  "notas": "• En el calendario, la hora de cada cliente se ve completa (ya no la corta el nombre)."
+  "versionCode": 113,
+  "versionName": "1.0.113",
+  "apk": "Sesiones-113.apk",
+  "notas": "• En pantallas grandes las dos columnas empiezan a la misma altura.\n• «Configuración» de cada cliente, con Guardar y Cancelar arriba."
 }
