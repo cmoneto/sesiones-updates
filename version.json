@@ -1,6 +1,6 @@
 {
-  "versionCode": 134,
-  "versionName": "1.0.134",
-  "apk": "Sesiones-134.apk",
-  "notas": "• Igual que la 133, preparada para Google Play con su clave nueva.\n• Todo se ve y funciona igual."
+  "versionCode": 135,
+  "versionName": "1.0.135",
+  "apk": "Sesiones-135.apk",
+  "notas": "• Compartes: ahora solo cuentan las tarjetas que alguien abrió en su celular.\n• En Ajustes › Compartes ves cuáles son, quién las abrió y puedes dejar de compartirlas."
 }
