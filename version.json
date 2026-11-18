@@ -1,6 +1,6 @@
 {
-  "versionCode": 131,
-  "versionName": "1.0.131",
-  "apk": "Sesiones-131.apk",
-  "notas": "• La onda de éxito se nota mucho más al registrar y cobrar.\n• Al cobrar, la onda cruza toda la pantalla."
+  "versionCode": 132,
+  "versionName": "1.0.132",
+  "apk": "Sesiones-132.apk",
+  "notas": "• Los botones del widget solo responden a tus toques.\n• Atrás en Mis tarjetas vuelve a la lista (Android 13+).\n• La copia de seguridad se guarda en segundo plano.\n• Mejoras internas de seguridad."
 }
