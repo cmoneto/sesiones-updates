@@ -1,6 +1,6 @@
 {
-  "versionCode": 135,
-  "versionName": "1.0.135",
-  "apk": "Sesiones-135.apk",
-  "notas": "• Compartes: ahora solo cuentan las tarjetas que alguien abrió en su celular.\n• En Ajustes › Compartes ves cuáles son, quién las abrió y puedes dejar de compartirlas."
+  "versionCode": 136,
+  "versionName": "1.0.136",
+  "apk": "Sesiones-136.apk",
+  "notas": "• Ajustes › Compartes: ve qué tarjetas compartes y deja de compartir las que quieras.\n• Ya no se registra quién abre una tarjeta."
 }
